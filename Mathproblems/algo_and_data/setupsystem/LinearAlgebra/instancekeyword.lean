@@ -1,0 +1,3 @@
+--https://subfish-zhou.github.io/theorem_proving_in_lean4_zh_CN/type_classes.html
+--what do word instance mean?
+--for example :
