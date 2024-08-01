@@ -1,0 +1,4 @@
+请将curl指令中的下载变成手动下载，可以大部分生效
+
+如果还是不行，参考这篇文章：
+https://stackoverflow.com/questions/59911649/fatal-unable-to-access-link-getaddrinfo-thread-failed-to-start

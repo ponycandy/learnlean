@@ -124,4 +124,3 @@ example : |a * b| ≤ (a ^ 2 + b ^ 2) / 2 := by
   sorry
 
 #check abs_le'.mpr
-
